@@ -50,5 +50,15 @@
 		<artifactId>xwiki-commons-context</artifactId>
 		<version>${commons.version}</version>
 	</dependency>
+	<dependency>
+		<groupId>org.xwiki.commons</groupId>
+		<artifactId>xwiki-commons-logging-logback</artifactId>
+		<version>${commons.version}</version>
+	</dependency>
+	<dependency>
+		<groupId>commons-logging</groupId>
+		<artifactId>commons-logging</artifactId>
+		<version>1.1.1</version>
+	</dependency>
   </dependencies>
 </project>
